@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "The stars align", "The stars align.csproj", "{45EB6032-85D6-4FA1-91C8-E1D53F5A5272}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45EB6032-85D6-4FA1-91C8-E1D53F5A5272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45EB6032-85D6-4FA1-91C8-E1D53F5A5272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45EB6032-85D6-4FA1-91C8-E1D53F5A5272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45EB6032-85D6-4FA1-91C8-E1D53F5A5272}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77062C9A-40BC-400A-AB62-9EAF2D741481}
+	EndGlobalSection
+EndGlobal

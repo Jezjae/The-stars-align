@@ -1,0 +1,15 @@
+C:\Users\sec\source\repos\The stars align\obj\Debug\net6.0\The stars align.csproj.AssemblyReference.cache
+C:\Users\sec\source\repos\The stars align\obj\Debug\net6.0\The stars align.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sec\source\repos\The stars align\obj\Debug\net6.0\The stars align.AssemblyInfoInputs.cache
+C:\Users\sec\source\repos\The stars align\obj\Debug\net6.0\The stars align.AssemblyInfo.cs
+C:\Users\sec\source\repos\The stars align\obj\Debug\net6.0\The stars align.csproj.CoreCompileInputs.cache
+C:\Users\sec\source\repos\The stars align\bin\Debug\net6.0\The stars align.exe
+C:\Users\sec\source\repos\The stars align\bin\Debug\net6.0\The stars align.deps.json
+C:\Users\sec\source\repos\The stars align\bin\Debug\net6.0\The stars align.runtimeconfig.json
+C:\Users\sec\source\repos\The stars align\bin\Debug\net6.0\The stars align.dll
+C:\Users\sec\source\repos\The stars align\bin\Debug\net6.0\The stars align.pdb
+C:\Users\sec\source\repos\The stars align\obj\Debug\net6.0\The stars align.dll
+C:\Users\sec\source\repos\The stars align\obj\Debug\net6.0\refint\The stars align.dll
+C:\Users\sec\source\repos\The stars align\obj\Debug\net6.0\The stars align.pdb
+C:\Users\sec\source\repos\The stars align\obj\Debug\net6.0\The stars align.genruntimeconfig.cache
+C:\Users\sec\source\repos\The stars align\obj\Debug\net6.0\ref\The stars align.dll
